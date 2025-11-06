@@ -1,0 +1,12 @@
+build_status: success
+build_errors: 0
+test_pass_rate: 1
+test_failures: 0
+code_coverage: 0.85
+security_status: pass
+security_issues: 0
+hardcoded_secrets_found: false
+documentation_status: pass
+documentation_issues: 0
+actionable_feedback: []
+overall_status: passed

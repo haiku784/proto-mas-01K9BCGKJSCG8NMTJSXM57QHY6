@@ -1,0 +1,11 @@
+{
+  "name": "@proto-mas/shared-types",
+  "version": "1.0.0",
+  "type": "module",
+  "types": "./index.d.ts",
+  "exports": {
+    "./api": "./api-contracts.ts",
+    "./db": "./db-contracts.ts",
+    "./integration": "./integration-contracts.ts"
+  }
+}
